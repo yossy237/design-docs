@@ -1,17 +1,26 @@
 # TITULO DEL DESIGN DOC
 Link: [Link a este design doc](#)
 
-Author(s): Charlie L
+Author(s): Yossy Leydi Gatica Martinez 
 
 Status: [Draft, Ready for review, In Review, Reviewed]
 
-Ultima actualización: YYYY-MM-DD
+Ultima actualización: 2025-03-8
 
 ## Contenido
-- Goals
-- Non-Goals
-- Background
-- Overview
+- Goals (Objetivos)
+*Facilitar la gestión de citas en un estudio de tatuajes y retratos a lapiz mediante un bot automatizado.
+*Reducir la carga de trabajo manual en la administración del estudio.
+- Non-Goals (No Objetivos)
+*No se integrará metodo de pago en esta fase.
+
+- Background (Antecedentes)
+  *El estudio de tatuajes actualmente gestiona citas manualmente
+  mediante llamadas y mensajes, lo que genera errores y demoras en las reservas.
+  
+- Overview (Resumen General)
+*Se propone desarrollar un bot de Telegram que permita a los clientes agendar citas, obtener información sobre el tatuador y recibir recordatorios automatizados.
+
 - Detailed Design
   - Solucion 1
     - Frontend
@@ -27,7 +36,15 @@ Ultima actualización: YYYY-MM-DD
 - [Otro link](#)
 
 ## Objetivo
-Una aplicación web que transfiera playlists de Spotify a YouTube Music
+*  Que el cliente pueda elegir el servicio (TATUAJES, RETRATOS A LAPIZ)
+*  Que el cliente pueda agendar su cita
+*  TATUAJES
+   -ENTREVISTA PREVIA AL TATUAJE(IMPERTENSO, DIABETICO, ALGUNA ENFERMEDAD)
+   -
+  -TAMAÑO( CHICO, MEDIANO, GRANDE)
+  -DISEÑO (SI,NO)
+   
+  
 
 Actualmente, ninguna app ofrece una forma de transferir playlists desde una plataforma a la otra
 

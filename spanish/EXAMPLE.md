@@ -5,21 +5,49 @@ Author(s): Yossy Leydi Gatica Martinez
 
 Status: [Draft, Ready for review, In Review, Reviewed]
 
-Ultima actualización: 2025-03-8
+Ultima actualización: 2025-03-28
 
 ## Contenido
 - Goals (Objetivos)
-*Facilitar la gestión de citas en un estudio de tatuajes y retratos a lapiz mediante un bot automatizado.
-*Reducir la carga de trabajo manual en la administración del estudio.
-- Non-Goals (No Objetivos)
-*No se integrará metodo de pago en esta fase.
+  
+  *Presentar al artista y sus especializaciones.
+       .Mostrar claramente la especialización del artista en realismo y sombras.
+       .Establecer un primer contacto amigable con el cliente.
 
+  *Promover los servicios del estudio.
+       .Destacar los dos principales servicios: tatuajes realistas y retratos a lápiz.
+
+  *Facilitar la interacción del usuario con enlaces a redes sociales.
+        .Incluir botones o enlaces directos a Instagram, Facebook, y otros perfiles relevantes del artista.
+
+  *Agendar citas fácilmente para tatuajes o retratos.
+        .Permitir a los usuarios seleccionar fecha, hora y el servicio deseado.
+
+  *Enviar recordatorios sobre citas y cuidados posteriores.
+        .Notificar a los clientes de las citas programadas y enviar recordatorios sobre cuidados después del tatuaje.
+
+  *Informar sobre promociones especiales.
+         .Notificar a los usuarios sobre cualquier promoción o evento especial del estudio.
+  
+-Non-Goals
+  *Atender consultas de salud o cuidados médicos.
+        .No se dará asesoría médica sobre el tatuaje (por ejemplo, infecciones o reacciones alérgicas).
+
+  *Vender productos relacionados al tatuaje.
+        .El bot no se dedicará a la venta de productos, solo a los servicios de tatuajes y retratos.
 - Background (Antecedentes)
-  *El estudio de tatuajes actualmente gestiona citas manualmente
+   *El estudio de tatuajes actualmente gestiona citas manualmente
   mediante llamadas y mensajes, lo que genera errores y demoras en las reservas.
   
+  *Estudio de Tatuajes y Retratos Realistas: Dirigido por un tatuador especializado en realismo y sombras.
+
+  *Objetivo del Bot: Automatizar el proceso de interacción con los clientes, facilitando la programación de citas, la consulta de 
+     servicios, y la promoción de las redes sociales del artista.
+
+  *Artista: se especializa en tatuajes realistas, retratos a lápiz, y diseño con sombras.
+  
 - Overview (Resumen General)
-*Se propone desarrollar un bot de Telegram que permita a los clientes agendar citas, obtener información sobre el tatuador y recibir recordatorios automatizados.
+*Se propone desarrollar un bot de Telegram: El bot de Telegram estara diseñado para proporcionar una experiencia eficiente y amigable a los clientes del estudio. Ofrecerá opciones claras para explorar los servicios, agendar citas y recibir actualizaciones importantes sobre citas y promociones. Además, incluirá enlaces a redes sociales para que los clientes puedan seguir el trabajo del artista y ver ejemplos previos.
 
 - Detailed Design
   - Solucion 1

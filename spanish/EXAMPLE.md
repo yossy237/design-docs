@@ -1,4 +1,4 @@
-# TITULO DEL DESIGN DOC
+--TINTA Y GRAFITO--
 Link: [Link a este design doc](#)
 
 Author(s): Yossy Leydi Gatica Martinez 
